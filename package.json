@@ -1,0 +1,24 @@
+{
+  "name": "hello_react",
+  "version": "1.0.0",
+  "description": "React.js 練習用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YuhSylphy/hello_React.git"
+  },
+  "keywords": [
+    "React",
+    "TypeScript"
+  ],
+  "author": "YuhSylphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuhSylphy/hello_React/issues"
+  },
+  "homepage": "https://github.com/YuhSylphy/hello_React",
+  "devDependencies": {}
+}
